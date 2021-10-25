@@ -34,7 +34,7 @@ body {
   min-width: 100%;
   height: 32rem;
   color: black;
-  background-image: image("garlicLoad.jpg");
+  background-image: url("garlicLoad.jpg");
 }
 
 
