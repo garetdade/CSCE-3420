@@ -15,8 +15,6 @@ body {
 /* Carousel base class */
 .carousel {
   margin-bottom: 4rem;
-  color: black;
-  background-image: url("garlicLoad.jpg");
 }
 /* Since positioning the image, we need to help out the caption */
 .carousel-caption {
@@ -34,6 +32,11 @@ body {
   left: 0;
   min-width: 100%;
   height: 32rem;
+}
+
+.carousel-inner {
+  color: black;
+  background-image: url("garlicLoad.jpg");
 }
 
 
