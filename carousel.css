@@ -25,7 +25,6 @@ body {
 /* Declare heights because of positioning of img element */
 .carousel-item {
   height: 32rem;
-  text-emphasis-color: black;
 }
 .carousel-item > img {
   position: absolute;
@@ -33,8 +32,6 @@ body {
   left: 0;
   min-width: 100%;
   height: 32rem;
-  color: black;
-  background-image: url("garlicLoad.jpg");
 }
 
 
